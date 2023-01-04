@@ -10,6 +10,8 @@ Weary#0007
 
 ![Ekran görüntüsü 2023-01-04 165448](https://user-images.githubusercontent.com/121950667/210570281-a952b436-c677-4904-886f-b0a9c892a92f.png)
 
+![image](https://user-images.githubusercontent.com/121950667/210570414-31729d42-c032-4e12-ac76-91475bbed970.png)
+
 
 
 - Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login

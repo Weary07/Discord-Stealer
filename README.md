@@ -1,5 +1,17 @@
 > Default:
 
+DİSCORD: https://discord.gg/nwyyRGzWSm
+Weary#0007
+
+
+![Ekran görüntüsü 2023-01-04 165337](https://user-images.githubusercontent.com/121950667/210570243-2686c0aa-9b57-4723-8a2f-9281e4e8b1e4.png)
+
+![Ekran görüntüsü 2023-01-04 165358](https://user-images.githubusercontent.com/121950667/210570263-4ef3bc93-965c-4ad1-ba98-047d22ace6de.png)
+
+![Ekran görüntüsü 2023-01-04 165448](https://user-images.githubusercontent.com/121950667/210570281-a952b436-c677-4904-886f-b0a9c892a92f.png)
+
+
+
 - Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
 - Steal Chrome Passwords / Cookies / History
 - Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
